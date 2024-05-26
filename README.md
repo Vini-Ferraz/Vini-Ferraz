@@ -1,3 +1,6 @@
+
+![Captura de tela 2024-05-26 150138](https://github.com/Vini-Ferraz/Vini-Ferraz/assets/132089057/a31b7e65-7ada-4c69-ae20-ef18c33df299)
+
 # Hello World! 🌍
 
 Olá, me chamo **Vinícius Ferraz** 👽, e uso os pronomes ele/dele.
